@@ -29,9 +29,7 @@ Usage
 
 Clone this repository and run the script:
 
-git clone https://github.com/yourusername/kmnist-classification.git
-cd kmnist-classification
-python kmnist_classification.py
+git clone (https://github.com/siddu-29/DLAssignment/blob/main/dlassignment.ipynb)
 
 Model Training
 
